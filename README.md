@@ -81,9 +81,6 @@ Feature Engineering
 Model Evaluation
 Exploratory Data Analysis
 Predictive Analytics
-📌 Featured Projects
-
-🚧 Add your best projects here.
 
 Project	Description	Technologies
 🤖 AI Agent	Intelligent agent capable of reasoning and using tools	Python • LLM • Agents
@@ -113,7 +110,7 @@ MLOps               ███████████████░░░░░
 
 I'm always interested in connecting with people working on AI, Machine Learning, Generative AI, Agentic AI, Data Science, and emerging technologies.
 
-<p align="center"> <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="mailto:YOUR_EMAIL@example.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a> </p>
+<p align="center"> <a href="https://www.linkedin.com/in/sandeepsk17/"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="mailto:sandeepspk1797@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a> </p>
 💡 "The goal is not just to build AI — it's to build AI that creates real-world impact."
 
 ⭐ If you find my projects interesting, consider giving them a star!
